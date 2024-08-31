@@ -73,11 +73,9 @@ I’m always learning and pushing the envelope! Here’s what I’m currently di
 
 I’m always up for collaborating on exciting projects and brainstorming new ideas! Whether you’re looking for a code wizard 🧙‍♂️ to join your team, or just want to chat about the latest tech trends, feel free to connect with me:
 
-- **Email**: [yammirza793@gmail.com](mailto:your-email@example.com)
-- **LinkedIn**: [Mohammad Yameen on LinkedIn](www.linkedin.com/in/
-mohammad-yameen-62b2b6253
-)
-- **Twitter**: [@YameenTweets](https://twitter.com/your-profile)
+- **Email**: [yammirza793@gmail.com](mailto:yammirza793@gmail.com)
+- **LinkedIn**: [Mohammad Yameen on LinkedIn](https://www.linkedin.com/in/mohammad-yameen-62b2b6253)
+- **Twitter**: [@yammirza793](https://x.com/yammirza793)
 
 Don’t be a stranger – let’s build something amazing together! 💡
 
