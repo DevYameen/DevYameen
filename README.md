@@ -43,16 +43,6 @@ Here’s a peek into the arsenal of skills I use to create magic:
 
 ---
 
-## 🌟 Highlight Reel: My Coolest Projects
-
-Here are a few projects that I’ve poured my heart (and countless lines of code) into:
-
-- **📚 BookStoreApp** – A full-stack app for managing books, using **React**, **Node.js**, and **MongoDB**. It’s more than just a bookstore, it’s a reading experience!
-- **☀️ Weather App** – Get real-time weather updates with a fresh twist: dynamic backgrounds courtesy of **Unsplash API** and built with **React**.
-- **💼 Portfolio Website** – Yup, my own little showcase! Packed with features like animations and responsiveness using **HTML**, **CSS**, **JavaScript**.
-- **✅ Todo App** – A beautifully designed task management app with **React** and a sleek, responsive UI built with **Tailwind CSS**.
-- **📦 LogiTracker** – A real-time logistics tracker using **Socket.IO** for instant updates.
-
 Want to explore more? Check out the repositories! 🔍
 
 ---
